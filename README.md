@@ -1,7 +1,8 @@
 # Desktop_Recoder_App
-## Clone this project <br>
-## yarn install<br>
-## yarn start<br>
+## Clone this project 
+## Type yarn install to your CLI
+## yarn start
+## <center><h1> About Electron </center></h1>
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
 
 
@@ -17,13 +18,9 @@ using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) an
 [Chromium](https://www.chromium.org) and is used by the [Atom
 editor](https://github.com/atom/atom) and many other [apps](https://electronjs.org/apps).
 
-Follow [@ElectronJS](https://twitter.com/electronjs) on Twitter for important
-announcements.
+ 
 
-This project adheres to the Contributor Covenant
-[code of conduct](https://github.com/electron/electron/tree/master/CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable
-behavior to [coc@electronjs.org](mailto:coc@electronjs.org).
+ 
 
 ## Installation
 
@@ -32,7 +29,7 @@ The preferred method is to install Electron as a development dependency in your
 app:
 
 ```sh
-npm install electron --save-dev [--save-exact]
+yarn install electron --save-dev [--save-exact]
 ```
 
 The `--save-exact` flag is recommended for Electron prior to version 2, as it does not follow semantic
@@ -86,21 +83,4 @@ console.log(electron)
 // spawn Electron
 const child = proc.spawn(electron)
 ```
-
-### Mirrors
-
-- [China](https://npm.taobao.org/mirrors/electron)
-
-## Documentation Translations
-
-Find documentation translations in [electron/i18n](https://github.com/electron/i18n).
-
-## Contributing
-
-If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
-
-## Community
-
-Info on reporting bugs, getting help, finding third-party tools and sample apps,
-and more can be found in the [support document](docs/tutorial/support.md#finding-support).
-download link for app:https://drive.google.com/file/d/1_pBIbHeUaJJyXKtgo9HxNmzjYPf6lcoO/view?usp=sharing
+### Download link for this  app:https://drive.google.com/file/d/1_pBIbHeUaJJyXKtgo9HxNmzjYPf6lcoO/view?usp=sharing
